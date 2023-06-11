@@ -2,7 +2,7 @@
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
 [EN](README.md) | [简中](README_zh-CN.md)
 
-## StarRail Download Links
+## ZenlessZoneZero Download Links
 <!--### Tips
 Since the ??? beta, mihoyo has added key and cookie verification to the download link.-->
 

@@ -2,7 +2,7 @@
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
 [EN](README.md) | [简中](README_zh-CN.md)
 
-## 星穹铁道的下载链接
+## 绝区零的下载链接
 <!--### 提示
 从??? beta开始mihoyo添加了Key和Cookie的下载验证-->
 
