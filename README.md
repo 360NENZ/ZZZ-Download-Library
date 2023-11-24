@@ -24,10 +24,10 @@ If you want to share something that you think is dear to you and should not be d
 * Links of the ZenlessZoneZero **Release**, **Beta** and **Audio** files
 
 
-<!--### What is _"autopatchos"_ and _"autopatchcn"_
+### What is _"autopatchos"_ and _"autopatchcn"_
 * **autopatchos** - ZenlessZoneZero_OS
 * **autopatchcn** - ZenlessZoneZero_CN
--->
+
 ### What's the difference between _"ZenlessZoneZero_OS"_ and _"ZenlessZoneZero_CN"_?
 * **SZenlessZoneZero_OS** - Overseas/Global Version
 * **ZenlessZoneZero_CN** - Chinese Version

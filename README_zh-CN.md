@@ -23,10 +23,10 @@
 ### 仓库里面有什么？  
 * 仓库里面有绝区零的链接，包括了 **发行版-Release**, **测试版-Beta**和**音频文件-Audio files**
 
-<!--### 什么是"autopatchcn" 和 "autopatchos"
+### 什么是"autopatchcn" 和 "autopatchos"
 * **autopatchcn** - ZenlessZoneZero_OS
 * **autopatchos** - ZenlessZoneZero_CN
--->
+
 ### "StarRail_CN" 和 "StarRail_OS" 这两个版本有什么区别?
 * **ZenlessZoneZero_CN** - 中国版-CN版
 * **ZenlessZoneZero_OS** - 国际版-OS版
