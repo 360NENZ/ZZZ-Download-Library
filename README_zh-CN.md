@@ -30,7 +30,7 @@
 * **autopatchcn** - ZenlessZoneZero_OS
 * **autopatchos** - ZenlessZoneZero_CN
 
-### "StarRail_CN" 和 "StarRail_OS" 这两个版本有什么区别?
+### "ZenlessZoneZero_CN" 和 "ZenlessZoneZero_OS" 这两个版本有什么区别?
 * **ZenlessZoneZero_CN** - 中国版-CN版
 * **ZenlessZoneZero_OS** - 国际版-OS版
 ---
