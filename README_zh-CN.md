@@ -6,6 +6,9 @@
 <!--### 提示
 从??? beta开始mihoyo添加了Key和Cookie的下载验证-->
 
+### 提示
+在0.3.1CB(空洞勇士计划)，米哈游添加了像原神Beta的Key的下载验证。
+
 <details> 
   <summary>很重要</summary>
    

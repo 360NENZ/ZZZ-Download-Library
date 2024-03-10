@@ -6,6 +6,9 @@
 <!--### Tips
 Since the ??? beta, mihoyo has added key and cookie verification to the download link.-->
 
+### Tips
+In 0.3.1 close beta, mihoyo has added key verification like genshin to the download link.
+
 <details> 
   <summary>IMPORTANT</summary>
    
