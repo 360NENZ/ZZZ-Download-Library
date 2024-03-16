@@ -1,6 +1,8 @@
 # 絕區零-下載鏈接倉庫
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
-[EN](Readme.md)|**簡體中文**|[繁體中文](Readme.Chinese_Traditional.md)  
+[EN](Readme.md)|[简体中文](Readme.Chinese_Simplified.md)|**繁體中文**  
+
+部分下載服務由[哆啦D夢|DuolaD](https://github.com/DuolaD)和[CYTeam](https://www.cyteam.cn/)提供。
 
 ## 絕區零的下載鏈接
 <!--### 提示
@@ -31,7 +33,7 @@
 * **autopatchos** - ZenlessZoneZero_CN
 
 ### "ZenlessZoneZero_CN" 和 "ZenlessZoneZero_OS" 這兩個版本有什麼區別?
-* **ZenlessZoneZero_CN** - 中國版-CN版
+* **ZenlessZoneZero_CN** - 中國大陸版-CN版
 * **ZenlessZoneZero_OS** - 國際版-OS版
 ---
 **注意**: 
