@@ -2,6 +2,8 @@
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
 **EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
 
+Partial download services are provided by [哆啦D夢|DuolaD](https://github.com/DuolaD) and [CYTeam](https://www.cyteam.cn/).
+
 ## ZenlessZoneZero Download Links
 <!--### Tips
 Since the ??? beta, mihoyo has added key and cookie verification to the download link.-->
@@ -32,8 +34,8 @@ If you want to share something that you think is dear to you and should not be d
 * **autopatchcn** - ZenlessZoneZero_CN
 
 ### What's the difference between _"ZenlessZoneZero_OS"_ and _"ZenlessZoneZero_CN"_?
-* **SZenlessZoneZero_OS** - Overseas/Global Version
-* **ZenlessZoneZero_CN** - Chinese Version
+* **ZenlessZoneZero_OS** - Overseas/Global Version
+* **ZenlessZoneZero_CN** - Mainland China Version
 ---
 **Note**: 
 * This repository will update from time to time when new version of the game gets released.
