@@ -2,6 +2,8 @@
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
 [EN](Readme.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)  
 
+部分下载服务由[哆啦D梦|DuolaD](https://github.com/DuolaD)和[CYTeam](https://www.cyteam.cn/)提供。  
+
 ## 绝区零的下载链接
 <!--### 提示
 从??? beta开始mihoyo添加了Key和Cookie的下载验证-->
@@ -31,7 +33,7 @@
 * **autopatchos** - ZenlessZoneZero_CN
 
 ### "ZenlessZoneZero_CN" 和 "ZenlessZoneZero_OS" 这两个版本有什么区别?
-* **ZenlessZoneZero_CN** - 中国版-CN版
+* **ZenlessZoneZero_CN** - 中国大陆版-CN版
 * **ZenlessZoneZero_OS** - 国际版-OS版
 ---
 **注意**: 
