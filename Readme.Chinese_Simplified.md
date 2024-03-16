@@ -1,6 +1,6 @@
 # 绝区零-下载链接仓库
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
-[EN](README.md) | [简中](README_zh-CN.md)
+[EN](Readme.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)  
 
 ## 绝区零的下载链接
 <!--### 提示
