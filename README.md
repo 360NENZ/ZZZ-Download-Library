@@ -1,6 +1,6 @@
 # ZZZ-Download-Library
 ![ZenlessZoneZeroBanner](https://webstatic.mihoyo.com/upload/op-public/2022/07/12/dd6757d0dd9627865f88221bb807178d_701447427251294272.png)  
-[EN](README.md) | [简中](README_zh-CN.md)
+[EN](README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md)
 
 ## ZenlessZoneZero Download Links
 <!--### Tips
@@ -39,3 +39,5 @@ If you want to share something that you think is dear to you and should not be d
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
 * Anyone can contribute to this Repository.
+
+**Partial download services are provided by [TomyJan](https://vov.moe), [哆啦D夢|DuolaD](https://github.com/DuolaD) and [CYTeam](https://www.cyteam.cn/).**
