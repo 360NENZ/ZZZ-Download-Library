@@ -32,7 +32,7 @@ If you want to share something that you think is dear to you and should not be d
 * **autopatchcn** - ZenlessZoneZero_CN
 
 ### What's the difference between _"ZenlessZoneZero_OS"_ and _"ZenlessZoneZero_CN"_?
-* **SZenlessZoneZero_OS** - Overseas/Global Version
+* **ZenlessZoneZero_OS** - Overseas/Global Version
 * **ZenlessZoneZero_CN** - Chinese Version
 ---
 **Note**: 
